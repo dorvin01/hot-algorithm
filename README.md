@@ -1,7 +1,7 @@
-## 文件名说明
+## Filename
 
-`<序号>-<LeetCode编号>-<题目名称>.go`
+`<num>-<LeetCode-num>-<title>.go`
 
-## 刷题顺序
+## Video
 
-[算法20天速通！leetcodeHot100--哈希，启动！](https://www.bilibili.com/video/BV1MH4y117ZU)
+[算法 20 天速通！leetcodeHot100--哈希，启动！](https://www.bilibili.com/video/BV1MH4y117ZU)
